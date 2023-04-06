@@ -21,9 +21,25 @@
         "zip": "PH2 87T"
       },
       "comment": "À livrer avant Noël"
+    },
+    {
+      "id": 0,
+      "fname": "John",
+      "lname": "Deere",
+      "phone": "450-555-8888",
+      "email": "no-reply@uqtr.ca",
+      "street": "450 Chemin du Golf",
+      "city": "Montréal",
+      "state": "Québec",
+      "zip": "G3T 1E2",
+      "manager": "Karen",
+      "registerNumber": "5554545400",
+      "idCard": "78945612",
+      "username": "sudo",
+      "password": "password"
     }
   ],
-  "profile": {
+  "profiles": {
     "name": "typicode"
   }
 }
