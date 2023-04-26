@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "delivery": [
     {
       "id": 0,
       "effectiveDate": "2023-04-25",
@@ -21,6 +21,72 @@
         "zip": "PH2 87T"
       },
       "comment": "À livrer avant Noël"
+    },
+    {
+      "id": 1,
+      "effectiveDate": "2023-04-25",
+      "deadline": "2023-10-23",
+      "info": "Paquet amazon",
+      "height": 10,
+      "width": 5,
+      "length": 30,
+      "pickupAddress": {
+        "street": "123 rue Jean",
+        "city": "Trois-Rivières",
+        "state": "Québec",
+        "zip": "G8E 2E3"
+      },
+      "deliveryAddress": {
+        "street": "55 rue des ormes",
+        "city": "Sherbrooke",
+        "state": "Québec",
+        "zip": "Y6E 2H4"
+      },
+      "comment": ""
+    },
+    {
+      "id": 2,
+      "effectiveDate": "2023-04-25",
+      "deadline": "2024-01-01",
+      "info": "Pâtes",
+      "height": 40,
+      "width": 40,
+      "length": 10,
+      "pickupAddress": {
+        "street": "412 rue des voiliers",
+        "city": "Drummondville",
+        "state": "Québec",
+        "zip": "324 252"
+      },
+      "deliveryAddress": {
+        "street": "634 rue des portes",
+        "city": "Drummondville",
+        "state": "Québec",
+        "zip": "125 456"
+      },
+      "comment": "À conserver au frais"
+    },
+    {
+      "id": 3,
+      "effectiveDate": "2023-04-25",
+      "deadline": "2023-07-10",
+      "info": "Paquet amazon",
+      "height": 5,
+      "width": 1,
+      "length": 10,
+      "pickupAddress": {
+        "street": "23 rue opportuniste",
+        "city": "Montréal",
+        "state": "Québec",
+        "zip": "242 654"
+      },
+      "deliveryAddress": {
+        "street": "10 rue de la vente",
+        "city": "Montréal",
+        "state": "Québec",
+        "zip": "G42 5Y5"
+      },
+      "comment": "Livraison expresse"
     }
   ],
   "merchant": [
