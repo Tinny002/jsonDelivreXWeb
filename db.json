@@ -86,7 +86,7 @@
         "state": "Québec",
         "zip": "G42 5Y5"
       },
-      "comment": "Livraison expresse"
+      "comment": "Livraison express"
     },
     {
       "id": 4,
@@ -108,7 +108,7 @@
         "state": "Québec",
         "zip": "G42 5Y5"
       },
-      "comment": "Livraison expresse"
+      "comment": "Livraison express"
     },
     {
       "id": 5,
@@ -130,7 +130,7 @@
         "state": "Québec",
         "zip": "G42 5Y5"
       },
-      "comment": "Livraison expresse"
+      "comment": "Livraison express"
     },
     {
       "id": 6,
@@ -152,7 +152,7 @@
         "state": "Québec",
         "zip": "G42 5Y5"
       },
-      "comment": "Livraison expresse"
+      "comment": "Livraison express"
     },
     {
       "id": 7,
@@ -174,7 +174,7 @@
         "state": "Québec",
         "zip": "G42 5Y5"
       },
-      "comment": "Livraison expresse"
+      "comment": "Livraison express"
     }
   ],
   "merchant": [
